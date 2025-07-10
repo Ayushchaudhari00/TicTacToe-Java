@@ -10,7 +10,7 @@ A fully functional 2-player Tic Tac Toe game built using Java and Swing.
 - 🔁 Restart popup on win/draw
 - 🖥️ GUI with JFrame, JPanel, JButton, and JLabel
 
-*(Upload the image to your repo first, then this will work)*
+
 
 ## 🛠️ How to Run
 
