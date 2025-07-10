@@ -18,15 +18,7 @@ A fully functional 2-player Tic Tac Toe game built using Java and Swing.
    ```bash
    git clone https://github.com/Ayushchaudhari00/TicTacToe-Java.git
    cd TicTacToe-Java
-javac TicTacToe.java Main.java
-java Main
 
-📂 Project Structure
- TicTacToe-Java/
- ├── Main.java
- ├── TicTacToe.java
- ├── README.md
- └── screenshot.png
 
 
 
